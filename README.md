@@ -67,7 +67,7 @@ const options = {
 ## 🤝 Contributors  
 
 - **[@ZainUlAbedin2407](https://github.com/ZainUlAbedin2407)** for the **UI Design** 👨‍💻  
-- **[@YourUsername](https://github.com/saeedali780)** for **API integration** & adding all the cool functionality! 🦸‍♂️  
+- **[@saeedali780](https://github.com/saeedali780)** for **API integration** & adding all the cool functionality! 🦸‍♂️  
 
 Want to contribute? We'd love to have you on board! 🌟  
 
